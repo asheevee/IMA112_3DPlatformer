@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/cahna738/Documents/Unreal Projects/IMA112_3DPlatformer/Content/InputMappingContexts/IMC_Default.uasset",
+				"C:/Users/cahna738/Documents/Unreal Projects/IMA112_3DPlatformer/Content/InputActions/IA_Move.uasset",
+				"C:/Users/cahna738/Documents/Unreal Projects/IMA112_3DPlatformer/Content/InputActions/IA_Jump.uasset",
+				"C:/Users/cahna738/Documents/Unreal Projects/IMA112_3DPlatformer/Content/Blueprints/BP_Player.uasset",
+				"C:/Users/cahna738/Documents/Unreal Projects/IMA112_3DPlatformer/Content/Blueprints/BP_PlayerController.uasset",
+				"C:/Users/cahna738/Documents/Unreal Projects/IMA112_3DPlatformer/Content/Blueprints/BP_CustomGameMode.uasset"
+			]
+		}
+	]
+}
